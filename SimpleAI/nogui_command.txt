@@ -1,0 +1,1 @@
+./wesnoth.exe --nogui --multiplayer --controller 1:ai --controller 2:ai --ai-config 1:~add-ons/SimpleAI/ais/lachit.cfg --ai-config 2:~add-ons/SimpleAI/ais/lachit.cfg --turns=1
